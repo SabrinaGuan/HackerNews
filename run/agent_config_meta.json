@@ -1,0 +1,257 @@
+{
+  "keys": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\config\\config.default.js",
+  "session": {
+    "maxAge": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg-session\\config\\config.default.js",
+    "key": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg-session\\config\\config.default.js",
+    "httpOnly": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg-session\\config\\config.default.js",
+    "encrypt": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg-session\\config\\config.default.js"
+  },
+  "security": {
+    "domainWhiteList": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg-security\\config\\config.default.js",
+    "protocolWhiteList": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg-security\\config\\config.default.js",
+    "defaultMiddleware": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg-security\\config\\config.default.js",
+    "csrf": {
+      "enable": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg-security\\config\\config.default.js",
+      "useSession": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg-security\\config\\config.default.js",
+      "ignoreJSON": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg-security\\config\\config.default.js",
+      "cookieName": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg-security\\config\\config.default.js",
+      "sessionName": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg-security\\config\\config.default.js",
+      "headerName": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg-security\\config\\config.default.js",
+      "bodyName": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg-security\\config\\config.default.js",
+      "queryName": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "xframe": {
+      "enable": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "hsts": {
+      "enable": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg-security\\config\\config.local.js",
+      "maxAge": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg-security\\config\\config.default.js",
+      "includeSubdomains": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "dta": {
+      "enable": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "noopen": {
+      "enable": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "nosniff": {
+      "enable": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "xssProtection": {
+      "enable": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "csp": {
+      "enable": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg-security\\config\\config.default.js",
+      "policy": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg-security\\config\\config.default.js",
+      "checkAddress": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg-security\\config\\config.default.js"
+    }
+  },
+  "helper": {
+    "shtml": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg-security\\config\\config.default.js"
+  },
+  "jsonp": {
+    "limit": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "callback": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "csrf": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg-jsonp\\config\\config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg-onerror\\config\\config.default.js",
+    "appErrorFilter": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg-onerror\\config\\config.default.js",
+    "templatePath": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg-onerror\\config\\config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg-i18n\\config\\config.default.js",
+    "dirs": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg-i18n\\config\\config.default.js",
+    "queryField": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieField": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieMaxAge": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg-i18n\\config\\config.default.js"
+  },
+  "watcher": {
+    "type": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg-watcher\\config\\config.local.js",
+    "eventSources": {
+      "default": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg-watcher\\config\\config.default.js",
+      "development": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg-watcher\\config\\config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg-schedule\\config\\config.default.js",
+      "file": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg-schedule\\config\\config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg-schedule\\config\\config.default.js"
+  },
+  "multipart": {
+    "mode": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg-multipart\\config\\config.default.js",
+    "autoFields": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg-multipart\\config\\config.default.js",
+    "defaultCharset": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldNameSize": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldSize": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fields": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileSize": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg-multipart\\config\\config.default.js",
+    "files": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileExtensions": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg-multipart\\config\\config.default.js",
+    "whitelist": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg-multipart\\config\\config.default.js",
+    "tmpdir": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg-multipart\\config\\config.default.js",
+    "cleanSchedule": {
+      "cron": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg-multipart\\config\\config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg-development\\config\\config.default.js",
+    "ignoreDirs": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg-development\\config\\config.default.js",
+    "fastReady": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg-development\\config\\config.default.js",
+    "reloadOnDebug": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg-development\\config\\config.default.js",
+    "overrideDefault": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg-development\\config\\config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "hourDelimiter": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "filesRotateBySize": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFileSize": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFiles": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "rotateDuration": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxDays": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg-logrotator\\config\\config.default.js"
+  },
+  "static": {
+    "prefix": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg-static\\config\\config.default.js",
+    "dir": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg-static\\config\\config.default.js",
+    "dynamic": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg-static\\config\\config.default.js",
+    "preload": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg-static\\config\\config.default.js",
+    "buffer": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg-static\\config\\config.default.js",
+    "maxFiles": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg-static\\config\\config.default.js"
+  },
+  "view": {
+    "root": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg-view\\config\\config.default.js",
+    "cache": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg-view\\config\\config.local.js",
+    "defaultExtension": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg-view\\config\\config.default.js",
+    "defaultViewEngine": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg-view\\config\\config.default.js",
+    "mapping": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg-view\\config\\config.default.js"
+  },
+  "env": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg\\config\\config.default.js",
+  "name": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg\\config\\config.default.js",
+  "proxy": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg\\config\\config.default.js",
+  "maxProxyCount": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg\\config\\config.default.js",
+  "protocolHeaders": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg\\config\\config.default.js",
+  "ipHeaders": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg\\config\\config.default.js",
+  "hostHeaders": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg\\config\\config.default.js",
+  "pkg": {
+    "name": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg\\config\\config.default.js",
+    "version": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg\\config\\config.default.js",
+    "description": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg\\config\\config.default.js",
+    "main": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg\\config\\config.default.js",
+    "scripts": {
+      "test": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg\\config\\config.default.js",
+      "dev": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg\\config\\config.default.js"
+    },
+    "author": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg\\config\\config.default.js",
+    "license": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg\\config\\config.default.js",
+    "dependencies": {
+      "egg": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg\\config\\config.default.js"
+    },
+    "devDependencies": {
+      "egg-bin": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "baseDir": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg\\config\\config.default.js",
+  "HOME": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg\\config\\config.default.js",
+  "rundir": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg\\config\\config.default.js",
+  "dump": {
+    "ignore": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg\\config\\config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg\\config\\config.default.js",
+    "notFound": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg\\config\\config.default.js",
+    "sitefile": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg\\config\\config.default.js",
+    "middlewares": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg\\config\\config.default.js",
+    "httpClient": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg\\config\\config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg\\config\\config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg\\config\\config.default.js"
+  },
+  "bodyParser": {
+    "enable": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg\\config\\config.default.js",
+    "encoding": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg\\config\\config.default.js",
+    "formLimit": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg\\config\\config.default.js",
+    "jsonLimit": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg\\config\\config.default.js",
+    "strict": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg\\config\\config.default.js",
+    "queryString": {
+      "arrayLimit": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg\\config\\config.default.js",
+      "depth": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg\\config\\config.default.js",
+      "parameterLimit": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "logger": {
+    "dir": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg\\config\\config.default.js",
+    "encoding": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg\\config\\config.default.js",
+    "env": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg\\config\\config.default.js",
+    "level": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg\\config\\config.default.js",
+    "consoleLevel": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg\\config\\config.default.js",
+    "disableConsoleAfterReady": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg\\config\\config.default.js",
+    "outputJSON": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg\\config\\config.default.js",
+    "buffer": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg\\config\\config.default.js",
+    "appLogName": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg\\config\\config.default.js",
+    "coreLogName": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg\\config\\config.default.js",
+    "agentLogName": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg\\config\\config.default.js",
+    "errorLogName": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg\\config\\config.default.js",
+    "coreLogger": {
+      "consoleLevel": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg\\config\\config.local.js"
+    },
+    "allowDebugAtProd": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg\\config\\config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheLookupInterval": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheMaxLength": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg\\config\\config.default.js",
+    "request": {
+      "timeout": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg\\config\\config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketTimeout": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg\\config\\config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketTimeout": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg\\config\\config.default.js",
+    "logging": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg\\config\\config.default.js"
+  },
+  "coreMiddleware": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg\\config\\config.default.js",
+  "workerStartTimeout": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg\\config\\config.default.js",
+  "serverTimeout": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg\\config\\config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg\\config\\config.default.js",
+      "port": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg\\config\\config.default.js",
+      "hostname": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg\\config\\config.default.js",
+    "responseTimeout": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg\\config\\config.default.js"
+  },
+  "onClientError": "E:\\Workspace\\Node.js\\Egg.js\\HackerNews\\node_modules\\egg\\config\\config.default.js"
+}
